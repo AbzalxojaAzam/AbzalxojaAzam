@@ -12,15 +12,6 @@
     💻 Engineer | 🚀 AI & Automation | 🎮 Game Dev
   </p>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AbzalxojaAzam&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbzalxojaAzam&layout=compact&theme=tokyonight" 
-    height="180"
-  />
-
 </div>
 
 ---
@@ -40,7 +31,7 @@
 ## 🛠 Texnologiyalar
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,php,react,mongodb,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,vuejs,mongodb,mysql,git,github,linux,godot,unity" />
 </div>
 
 ---
@@ -71,7 +62,6 @@
 
 <p>
   📧 Linkedin: <b>(https://www.linkedin.com/in/abzalxojaazam/)</b><br>
-  ▶️ YouTube: <a href="[https://youtube.com](https://www.youtube.com/@AbazalxojaAzam)">@channel</a>
 </p>
 
 ---
