@@ -42,7 +42,6 @@
   <tr>
     <th>🚀 Project</th>
     <th>📝 Tavsif</th>
-    <th>📝 Havola</th>
   </tr>
   <tr>
     <td>Tarmoq Messenger</td>
