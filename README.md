@@ -55,6 +55,10 @@
     <td>Game Projects</td>
     <td>Game Programming</td>
   </tr>
+  <tr>
+    <td>Havola</td>
+    <td>[link](https://www.youtube.com/@AbazalxojaAzam)</td>
+  </tr>
 </table>
 
 ---
