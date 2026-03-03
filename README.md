@@ -42,6 +42,7 @@
   <tr>
     <th>🚀 Project</th>
     <th>📝 Tavsif</th>
+    <th>📝 Havola</th>
   </tr>
   <tr>
     <td>Tarmoq Messenger</td>
@@ -55,10 +56,6 @@
     <td>Game Projects</td>
     <td>Game Programming</td>
   </tr>
-  <tr>
-    <td>Havola</td>
-    <td>[link](https://www.youtube.com/@AbazalxojaAzam)</td>
-  </tr>
 </table>
 
 ---
@@ -66,7 +63,7 @@
 ## 🌐 Bog‘lanish
 
 <p>
-  📧 Linkedin: <b>(https://www.linkedin.com/in/abzalxojaazam/)</b><br>
+  📧 Linkedin: <b>https://www.linkedin.com/in/abzalxojaazam</b><br>
 </p>
 
 ---
