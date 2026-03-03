@@ -9,7 +9,7 @@
   </h1>
 
   <p style="font-size:18px; color: #555;">
-    💻 Full-Stack Developer | 🚀 AI & Automation | 🎮 Game Dev
+    💻 Engineer | 🚀 AI & Automation | 🎮 Game Dev
   </p>
 
   <img 
@@ -28,11 +28,11 @@
 ## 🧠 Men nima bilan shug‘ullanaman?
 
 <ul>
-  <li>⚙️ Backend: Node.js, Python, PHP</li>
-  <li>🎨 Frontend: HTML, CSS, JavaScript, React</li>
-  <li>🤖 AI: TTS, STT, Virtual Streamer, Automation</li>
-  <li>🎮 Game Dev: Roblox (Luau), Game Programming</li>
-  <li>📹 Content: YouTube, TikTok, Telegram botlar</li>
+  <li>⚙️ Backend: Node.js, mongoDB</li>
+  <li>🎨 Frontend: HTML, CSS, JavaScript, vuejs</li>
+  <li>🤖 AI: TTS, ComputerVision, Automation</li>
+  <li>🎮 Game Dev: Godot, Unity Game</li>
+  <li>📹 Content: YouTube, TikTok, Insatagram</li>
 </ul>
 
 ---
@@ -53,8 +53,7 @@
     <th>📝 Tavsif</th>
   </tr>
   <tr>
-    <td>AI Virtual Streamer</td>
-    <td>24/7 ishlovchi real-time AI streamer</td>
+    <td>Tarmoq Messenger</td>
   </tr>
   <tr>
     <td>Telegram Bots</td>
@@ -71,9 +70,8 @@
 ## 🌐 Bog‘lanish
 
 <p>
-  📧 Email: <b>youremail@gmail.com</b><br>
-  💬 Telegram: <a href="https://t.me/username">@username</a><br>
-  ▶️ YouTube: <a href="https://youtube.com">@channel</a>
+  📧 Linkedin: <b>(https://www.linkedin.com/in/abzalxojaazam/)</b><br>
+  ▶️ YouTube: <a href="[https://youtube.com](https://www.youtube.com/@AbazalxojaAzam)">@channel</a>
 </p>
 
 ---
