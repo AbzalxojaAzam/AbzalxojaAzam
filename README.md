@@ -45,6 +45,7 @@
   </tr>
   <tr>
     <td>Tarmoq Messenger</td>
+     <td>Parsing, monitoring, automation</td>
   </tr>
   <tr>
     <td>Telegram Bots</td>
@@ -52,7 +53,7 @@
   </tr>
   <tr>
     <td>Game Projects</td>
-    <td>Roblox & Game Programming</td>
+    <td>Game Programming</td>
   </tr>
 </table>
 
