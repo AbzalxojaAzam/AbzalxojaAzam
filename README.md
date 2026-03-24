@@ -5,7 +5,7 @@
 <div align="center">
 
   <h1 style="font-size: 36px; margin-bottom: 5px;">
-    👋 Assalomu alaykum, men <span style="color:#4CAF50;">Abzalxoja Azam</span>
+    👋 hi, i'm <span style="color:#4CAF50;">neo</span>
   </h1>
 
   <p style="font-size:18px; color: #555;">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 Men nima bilan shug‘ullanaman?
+## 🧠 What do I do?
 
 <ul>
   <li>⚙️ Backend: Node.js, mongoDB</li>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Texnologiyalar
+## 🛠 Technologies
 
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,vuejs,mongodb,mysql,git,github,linux,godot,unity" />
@@ -36,12 +36,12 @@
 
 ---
 
-## 📂 Loyihalar
+## 📂 Projects
 
 <table>
   <tr>
     <th>🚀 Project</th>
-    <th>📝 Tavsif</th>
+    <th>📝 Description</th>
   </tr>
   <tr>
     <td>Tarmoq Messenger</td>
@@ -59,7 +59,7 @@
 
 ---
 
-## 🌐 Bog‘lanish
+## 🌐 Contact
 
 <p>
   📧 Linkedin: <b>https://www.linkedin.com/in/abzalxojaazam</b><br>
